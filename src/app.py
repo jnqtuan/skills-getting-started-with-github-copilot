@@ -74,6 +74,18 @@ activities = {
         "schedule": "Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
         "participants": ["benjamin@mergington.edu", "lucas@mergington.edu"]
+    },
+    "Toolshed": {
+        "description": "A social club to help students network",
+        "schedule": "Fridays, 5:00 PM - 6:30 PM",
+        "max_participants": 25,
+        "participants": ["grace@mergington.edu", "henry@mergington.edu"]
+    },
+    "Brazilian Jiu Jitsu Club": {
+        "description": "Learn self-defense and grappling techniques in a safe environment",
+        "schedule": "Wednesdays, 6:00 PM - 7:30 PM",
+        "max_participants": 20,
+        "participants": ["ethan@mergington.edu", "zoe@mergington.edu"]
     }
 }
 
