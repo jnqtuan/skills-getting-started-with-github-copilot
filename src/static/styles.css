@@ -37,7 +37,7 @@ main {
 
 @media (min-width: 768px) {
   main {
-    grid-template-columns: 2fr 1fr;
+    justify-content: space-between; /* Adjust spacing for larger screens */
   }
 }
 
